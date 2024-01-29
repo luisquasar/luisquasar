@@ -2,6 +2,6 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Java and Javascript.
 - 💞️ I’m looking to collaborate on side projects
-- 📫 How to reach me (https://linkedin.com/luisdomiciano)
+- 📫 How to reach me [Me](https://linkedin.com/luisdomiciano)
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: ...
